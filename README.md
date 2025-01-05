@@ -19,16 +19,3 @@
 
 <br>
 
-## Project in the real world:
-
-[<img align="left" height="44px" width="76px" alt="Warpnet" src="https://i.imgur.com/gA0n9dO.png"/>](https://www.onebitcode.com/)
-**Full Stack Developer** \
-[**Seduvibe**](https://www.seduvibe.com/) • In progress \
-Skills: `Nuxt.js` `Node.js` `Ruby` `Pentester` `Container` `Kubernetes` `ElasticStack` `Jenkins` `Grafana` `Prometheus` `NOSQL/SQL` `
-
-## Contact:
-<div>
-<a href="https://www.instagram.com/tassiomont_/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto: tassio.leite14@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/tm0nt/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
